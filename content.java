@@ -7,5 +7,6 @@ public class Cfcfey {
         System.out.println("anjml");
         System.out.println("avkoy");
         System.out.println("sywtg");
+        System.out.println("wasma");
     }
 }
