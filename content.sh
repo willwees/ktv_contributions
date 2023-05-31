@@ -1,2 +1,1 @@
 echo "ftyvh"
-echo "wvwkd"
